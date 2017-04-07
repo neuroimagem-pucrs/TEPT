@@ -1,1 +1,2 @@
-# TEPT - Scripts for the TEPT project
+# TEPT
+Scripts for the TEPT project
